@@ -1,0 +1,324 @@
+{
+    "0": {
+        "name": "Type 1 fire engine",
+        "personal": 6,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "1": {
+        "name": "Type 2 fire engine",
+        "personal": 3,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "2": {
+        "name": "Platform truck",
+        "personal": 3,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "3": {
+        "name": "Battalion chief unit",
+        "personal": 3,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "4": {
+        "name": "Heavy rescue vehicle",
+        "personal": 4,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "5": {
+        "name": "ALS Ambulance",
+        "personal": 3,
+        "buildingid": [
+            "0",
+            "3",
+            "14",
+            "16"
+        ]
+    },
+    "6": {
+        "name": "Mobile air",
+        "personal": 3,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "7": {
+        "name": "Water Tanker",
+        "personal": 3,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "8": {
+        "name": "Utility unit",
+        "personal": 4,
+        "buildingid": [
+            "0",
+            "11",
+            "12",
+            "13"
+        ]
+    },
+    "9": {
+        "name": "HazMat",
+        "personal": 6,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "10": {
+        "name": "Patrol Car",
+        "personal": 2,
+        "buildingid": [
+            "5",
+            "15"
+        ]
+    },
+    "11": {
+        "name": "HEMS",
+        "personal": 1,
+        "buildingid": [
+            "6"
+        ]
+    },
+    "12": {
+        "name": "mcv",
+        "personal": 6,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "13": {
+        "name": "Quint",
+        "personal": 6,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "14": {
+        "name": "Police helicopter",
+        "personal": 2,
+        "buildingid": [
+            "8"
+        ]
+    },
+    "15": {
+        "name": "Fly-Car",
+        "personal": 2,
+        "buildingid": [
+            "0",
+            "3",
+            "11",
+            "12",
+            "14",
+            "16"
+        ]
+    },
+    "16": {
+        "name": "SWAT Armoured Vehicle",
+        "personal": 6,
+        "buildingid": [
+            "5",
+            "15"
+        ]
+    },
+    "17": {
+        "name": "ARFF Crash Tender",
+        "personal": 3,
+        "buildingid": [
+            "0"
+        ]
+    },
+    "18": {
+        "name": "Rescue Engine",
+        "personal": 6,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "19": {
+        "name": "K-9 Unit",
+        "personal": 2,
+        "buildingid": [
+            "5",
+            "15"
+        ]
+    },
+    "20": {
+        "name": "Mass Casualty Unit",
+        "personal": 1,
+        "buildingid": [
+            "0",
+            "3",
+            "16"
+        ]
+    },
+    "21": {
+        "name": "Heavy Rescue + Boat",
+        "personal": 4,
+        "buildingid": [
+            "0"
+        ]
+    },
+    "22": {
+        "name": "Boat Trailer",
+        "personal": 0,
+        "buildingid": [
+            "0",
+            "11",
+            "12"
+        ]
+    },
+    "23": {
+        "name": "Police Motorcycle",
+        "personal": 1,
+        "buildingid": [
+            "5",
+            "15"
+        ]
+    },
+    "24": {
+        "name": "Large Fireboat",
+        "personal": 7,
+        "buildingid": [
+            "11"
+        ]
+    },
+    "25": {
+        "name": "Large Rescue Boat",
+        "personal": 6,
+        "buildingid": [
+            "12"
+        ]
+    },
+    "26": {
+        "name": "SWAT SUV",
+        "personal": 4,
+        "buildingid": [
+            "5",
+            "15"
+        ]
+    },
+    "27": {
+        "name": "BLS Ambulance",
+        "personal": 2,
+        "buildingid": [
+            "0",
+            "3",
+            "14",
+            "16"
+        ]
+    },
+    "28": {
+        "name": "EMS Rescue",
+        "personal": 5,
+        "buildingid": [
+            "0",
+            "3",
+            "14",
+            "16"
+        ]
+    },
+    "29": {
+        "name": "EMS Chief",
+        "personal": 2,
+        "buildingid": [
+            "0",
+            "3",
+            "14",
+            "16"
+        ]
+    },
+    "30": {
+        "name": "Type 3 engine",
+        "personal": 3,
+        "buildingid": [
+            "0"
+        ]
+    },
+    "31": {
+        "name": "Type 5 engine",
+        "personal": 3,
+        "buildingid": [
+            "0"
+        ]
+    },
+    "32": {
+        "name": "Type 7 engine",
+        "personal": 3,
+        "buildingid": [
+            "0"
+        ]
+    },
+    "33": {
+        "name": "Pumper Tanker",
+        "personal": 6,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "34": {
+        "name": "Crew Carrier",
+        "personal": 12,
+        "buildingid": [
+            "0",
+            "13"
+        ]
+    },
+    "35": {
+        "name": "Water drop helicopter",
+        "personal": 5,
+        "buildingid": [
+            "17"
+        ]
+    },
+    "36": {
+        "name": "Air tanker",
+        "personal": 5,
+        "buildingid": [
+            "17"
+        ]
+    },
+    "37": {
+        "name": "Heavy air tanker",
+        "personal": 5,
+        "buildingid": [
+            "17"
+        ]
+    },
+    "38": {
+        "name": "Type 4 engine",
+        "personal": 3,
+        "buildingid": [
+            "0"
+        ]
+    },
+    "39": {
+        "name": "Type 6 engine",
+        "personal": 3,
+        "buildingid": [
+            "0"
+        ]
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "0": {
+        "name": "Water Ladder",
+		"id": 0,
+        "personal": 9,
+        "buildingid": [
+            "0",
+            "18"
+        ]
+    },
+    "1": {
+        "name": "Light 4X4 Pump (L4P)",
+		"id": 1,
+        "personal": 5,
+        "buildingid": [
+            "0",
+            "18"
+        ]
+    },
+    "2": {
+        "name": "Aerial Appliance",
+		"id": 2,
+        "personal": 3,
+        "buildingid": [
+            "0",
+            "18"
+        ]
+    },
+    "3": {
+        "name": "Fire Officer",
+		"id": 3,
+        "personal": 3,
+        "buildingid": [
+            "0",
+            "18"
+        ]
+    },
+    "4": {
+        "name": "Rescue Support Unit (RSU)",
+		"id": 4,
+        "personal": 5,
+        "buildingid": [
+            "0",
+            "18"
+        ]
+    },
+    "5": {
+        "name": "Ambulance",
+		"id": 5,
+        "personal": 3,
+        "buildingid": [
+            "0",
+            "2",
+            "20",
+            "21"
+        ]
+    },
+    "6": {
+        "name": "Water Carrier",
+		"id": 6,
+        "personal": 3,
+        "buildingid": [
+            "0",
+            "18"
+        ]
+    },
+    "7": {
+        "name": "HazMat Unit",
+		"id": 7,
+        "personal": 6,
+        "buildingid": [
+            "0",
+            "18"
+        ]
+    },
+    "8": {
+        "name": "Incident response vehicle (IRV)",
+		"id": 8,
+        "personal": 2,
+        "buildingid": [
+            "6",
+            "19"
+        ]
+    },
+    "9": {
+        "name": "HEMS",
+		"id": 9,
+        "personal": 1,
+        "buildingid": [
+            "5"
+        ]
+    },
+    "10": {
+        "name": "Rapid Response Vehicle",
+		"id": 10,
+        "personal": 1,
+        "buildingid": [
+            "2",
+            "5",
+            "20",
+            "21"
+        ]
+    },
+    "11": {
+        "name": "Police helicopter",
+		"id": 11,
+        "personal": 3,
+        "buildingid": [
+            "13"
+        ]
+    },
+    "12": {
+        "name": "Dog Support Unit (DSU)",
+		"id": 12,
+        "personal": 2,
+        "buildingid": [
+            "6",
+            "19"
+        ]
+    },
+    "13": {
+        "name": "Armed Response Vehicle (ARV)",
+		"id": 13,
+        "personal": 4,
+        "buildingid": [
+            "6",
+            "19"
+        ]
+    },
+    "14": {
+        "name": "Breathing Apparatus Support Unit (BASU)",
+		"id": 14,
+        "personal": 3,
+        "buildingid": [
+            "0",
+            "18"
+        ]
+    },
+    "15": {
+        "name": "Incident Command and Control Unit (ICCU)",
+		"id": 15,
+        "personal": 6,
+        "buildingid": [
+            "0",
+            "18"
+        ]
+    },
+    "16": {
+        "name": "Rescue Pump",
+		"id": 16,
+        "personal": 9,
+        "buildingid": [
+            "0",
+            "18"
+        ]
+    },
+    "17": {
+        "name": "CARP",
+		"id": 17,
+        "personal": 9,
+        "buildingid": [
+            "0",
+            "18"
+        ]
+    },
+    "18": {
+        "name": "Co-Responder Vehicle",
+		"id": 18,
+        "personal": 1,
+        "buildingid": [
+            "0",
+            "18"
+        ]
+    },
+    "19": {
+        "name": "Joint Response Unit",
+		"id": 19,
+        "personal": 3,
+        "buildingid": [
+            "2",
+            "6",
+            "19",
+            "20"
+        ]
+    },
+    "20": {
+        "name": "Operational Team Leader",
+		"id": 20,
+        "personal": 1,
+        "buildingid": [
+            "2",
+            "20",
+            "21"
+        ]
+    },
+	"21": {
+        "name": "General Practitioner",
+		"id": 21,
+        "personal": 1,
+        "buildingid": [
+            "21",
+            "22"
+        ]
+    },
+	"22": {
+        "name": "Community First Responder",
+		"id": 22,
+        "personal": 1,
+        "buildingid": [
+            "22"
+        ]
+    },
+	"23": {
+        "name": "Crew Carrier",
+		"id": 23,
+        "personal": 1,
+        "buildingid": [
+            "2",
+            "20",
+            "21"
+        ]
+    },
+	"24": {
+        "name": "Traffic Car",
+		"id": 24,
+        "personal": 1,
+        "buildingid": [
+            "6",
+            "19"
+        ]
+    },
+	"25": {
+        "name": "Armed Traffic Car",
+		"id": 25,
+        "personal": 1,
+        "buildingid": [
+            "6",
+            "19"
+        ]
+    }
+}
