@@ -1,0 +1,1105 @@
+[
+	{
+		"id": 0,
+		"name": "Feuerwache",
+		"class": ["fire_stations"],
+		"class_alias": ["Feuerwachen"],
+		"max_level": 16,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Rettungsdienst",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "Abrollbehälter-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 2,
+				"name": "Abrollbehälter-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 3,
+				"name": "Abrollbehälter-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 4,
+				"name": "Abrollbehälter-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 5,
+				"name": "Abrollbehälter-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 6,
+				"name": "Wasserrettung",
+				"cost": 4e5,
+				"duration": 7
+			},
+			{
+				"id": 7,
+				"name": "Abrollbehälter-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 8,
+				"name": "Flughafenfeuerwehr",
+				"cost": 3e5,
+				"duration": 7
+			},
+			{
+				"id": 9,
+				"name": "Großwache",
+				"cost": 1e6,
+				"duration": 7
+			},
+			{
+				"id": 10,
+				"name": "Abrollbehälter-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 11,
+				"name": "Abrollbehälter-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 12,
+				"name": "Abrollbehälter-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 13,
+				"name": "Werkfeuerwehr",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 14,
+				"name": "Netzersatzanlage 50",
+				"cost": 1e5,
+				"duration": 5
+			},
+			{
+				"id": 15,
+				"name": "Netzersatzanlage 200",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 16,
+				"name": "Großlüfter",
+				"cost": 1e5,
+				"duration": 5
+			},
+			{
+				"id": 17,
+				"name": "Abrollbehälter-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 18,
+				"name": "Drohneneinheit",
+				"cost": 2e5,
+				"duration": 5
+			},
+			{
+				"id": 19,
+				"name": "Verpflegungsdienst",
+				"cost": 2e5,
+				"duration": 5
+			},
+			{
+				"id": 20,
+				"name": "Anhänger-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 21,
+				"name": "Anhänger-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 22,
+				"name": "Anhänger-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 23,
+				"name": "Anhänger-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 24,
+				"name": "Anhänger-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 25,
+				"name": "Bahnrettung",
+				"cost": 1e5,
+				"duration": 5
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "Feuerwehrschule",
+		"class": [],
+		"class_alias": [],
+		"max_level": 3,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			},
+			{
+				"id": 2,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Rettungswache",
+		"class": ["rescue_stations"],
+		"class_alias": ["Rettungswachen"],
+		"max_level": 14,
+		"extensions": []
+	},
+	{
+		"id": 3,
+		"name": "Rettungsdienstschule",
+		"class": [],
+		"class_alias": [],
+		"max_level": 3,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			},
+			{
+				"id": 2,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Krankenhaus",
+		"class": [],
+		"class_alias": [],
+		"max_level": 20,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Allgemeine Innere",
+				"cost": 1e4,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "Allgemeine Chirurgie",
+				"cost": 1e4,
+				"duration": 7
+			},
+			{
+				"id": 2,
+				"name": "Gynäkologie",
+				"cost": 7e4,
+				"duration": 7
+			},
+			{
+				"id": 3,
+				"name": "Urologie",
+				"cost": 7e4,
+				"duration": 7
+			},
+			{
+				"id": 4,
+				"name": "Unfallchirurgie",
+				"cost": 7e4,
+				"duration": 7
+			},
+			{
+				"id": 5,
+				"name": "Neurologie",
+				"cost": 7e4,
+				"duration": 7
+			},
+			{
+				"id": 6,
+				"name": "Neurochirurgie",
+				"cost": 7e4,
+				"duration": 7
+			},
+			{
+				"id": 7,
+				"name": "Kardiologie",
+				"cost": 7e4,
+				"duration": 7
+			},
+			{
+				"id": 8,
+				"name": "Kardiochirurgie",
+				"cost": 7e4,
+				"duration": 7
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Rettungshubschrauber-Station",
+		"class": ["rth"],
+		"class_alias": ["Rettungshelikopter"],
+		"max_level": null,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Windenrettung",
+				"cost": 24e2,
+				"duration": 3
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Polizeiwache",
+		"class": ["police_stations"],
+		"class_alias": ["Polizeiwachen"],
+		"max_level": 14,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 2,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 3,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 4,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 5,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 6,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 7,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 8,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 9,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 10,
+				"name": "Diensthundestaffel",
+				"cost": 1e5,
+				"duration": 5
+			},
+			{
+				"id": 11,
+				"name": "Kriminalpolizeig",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 12,
+				"name": "Dienstgruppenleitung",
+				"cost": 2e5,
+				"duration": 7
+			},
+			{
+				"id": 13,
+				"name": "Motorradstaffel",
+				"cost": 75e3,
+				"duration": 2
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Leitstelle",
+		"class": [],
+		"class_alias": [],
+		"max_level": 0,
+		"extensions": []
+	},
+	{
+		"id": 8,
+		"name": "Polizeischule",
+		"class": [],
+		"class_alias": [],
+		"max_level": 3,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			},
+			{
+				"id": 2,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "THW",
+		"class": ["thw"],
+		"class_alias": ["THW-Ortsverbände"],
+		"max_level": 0,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "1. Technischer Zug: Fachgruppe Notversorgung/Notinstandsetzung",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "1. Technischer Zug: Zugtrupp",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 2,
+				"name": "Fachgruppe Räumen",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 3,
+				"name": "Fachgruppe Wassergefahren",
+				"cost": 5e5,
+				"duration": 7
+			},
+			{
+				"id": 4,
+				"name": "2. Technischer Zug - Bergungsgruppe",
+				"cost": 25e3,
+				"duration": 3
+			},
+			{
+				"id": 5,
+				"name": "2. Technischer Zug: Fachgruppe Notversorgung/Notinstandsetzung",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 6,
+				"name": "2. Technischer Zug: Zugtrupp",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 7,
+				"name": "Fachgruppe Ortung",
+				"cost": 45e4,
+				"duration": 7
+			},
+			{
+				"id": 8,
+				"name": "Fachgruppe Wasserschaden/Pumpen",
+				"cost": 2e5,
+				"duration": 7
+			},
+			{
+				"id": 9,
+				"name": "Fachgruppe Schwere Bergung",
+				"cost": 2e5,
+				"duration": 7
+			},
+			{
+				"id": 10,
+				"name": "Fachgruppe Elektroversorgung",
+				"cost": 2e5,
+				"duration": 7
+			},
+			{
+				"id": 11,
+				"name": "Ortsverbands-Mannschaftstransportwagen",
+				"cost": 2e5,
+				"duration": 3
+			},
+			{
+				"id": 12,
+				"name": "Trupp Unbemannte Luftfahrtsysteme",
+				"cost": 2e5,
+				"duration": 5
+			},
+			{
+				"id": 13,
+				"name": "Fachzug Führung und Kommunikation",
+				"cost": 2e5,
+				"duration": 5
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "THW-Bundesschule",
+		"class": [],
+		"class_alias": [],
+		"max_level": 3,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			},
+			{
+				"id": 2,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "Bereitschaftspolizei",
+		"class": ["bereitschaftspolizei", "sek", "mek"],
+		"class_alias": ["Bereitschaftspolizei", "SEK", "MEK"],
+		"max_level": 0,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "2. Zug der 1. Hundertschaft",
+				"cost": 25e3,
+				"duration": 3
+			},
+			{
+				"id": 1,
+				"name": "3. Zug der 1. Hundertschaft",
+				"cost": 25e3,
+				"duration": 3
+			},
+			{
+				"id": 2,
+				"name": "Sonderfahrzeug: Gefangenenkraftwagen",
+				"cost": 25e3,
+				"duration": 3
+			},
+			{
+				"id": 3,
+				"name": "Technischer Zug: Wasserwerfer",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 4,
+				"name": "SEK: 1. Zug",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 5,
+				"name": "SEK: 2. Zug",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 6,
+				"name": "MEK: 1. Zug",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 7,
+				"name": "MEK: 2. Zug",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 8,
+				"name": "Diensthundestaffel",
+				"cost": 1e5,
+				"duration": 5
+			},
+			{
+				"id": 9,
+				"name": "Reiterstaffel",
+				"cost": 1e5,
+				"duration": 5
+			},
+			{
+				"id": 10,
+				"name": "Sonderfahrzeug: Lautsprecherkraftwagen",
+				"cost": 1e5,
+				"duration": 5
+			}
+		]
+	},
+	{
+		"id": 12,
+		"name": "Schnelleinsatzgruppe (SEG)",
+		"class": ["seg"],
+		"class_alias": ["Schnelleinsatzgruppen (SEG)"],
+		"max_level": 0,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Führung",
+				"cost": 25e3,
+				"duration": 3
+			},
+			{
+				"id": 1,
+				"name": "Sanitätsdienst",
+				"cost": 25e3,
+				"duration": 3
+			},
+			{
+				"id": 2,
+				"name": "Wasserrettungs-Erweiterung",
+				"cost": 5e5,
+				"duration": 7
+			},
+			{
+				"id": 3,
+				"name": "Rettungshundestaffel",
+				"cost": 35e4,
+				"duration": 7
+			},
+			{
+				"id": 4,
+				"name": "SEG Drohne",
+				"cost": 2e5,
+				"duration": 5
+			},
+			{
+				"id": 5,
+				"name": "Betreuungs- und Verpflegungsdienst",
+				"cost": 2e5,
+				"duration": 5
+			}
+		]
+	},
+	{
+		"id": 13,
+		"name": "Polizeihubschrauber-Station",
+		"class": ["police_helicopter_stations"],
+		"class_alias": ["Polizeihubschrauber-Stationen"],
+		"max_level": null,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Außenlastbehälter",
+				"cost": 2e5,
+				"duration": 3
+			},
+			{
+				"id": 1,
+				"name": "Windenrettung",
+				"cost": 24e2,
+				"duration": 3
+			}
+		]
+	},
+	{
+		"id": 14,
+		"name": "Bereitstellungsraum",
+		"class": [],
+		"class_alias": [],
+		"max_level": 0,
+		"extensions": []
+	},
+	{
+		"id": 15,
+		"name": "Wasserrettung",
+		"class": ["wasserrettung"],
+		"class_alias": ["Wasserrettungswachen"],
+		"max_level": 5,
+		"extensions": []
+	},
+	{
+		"id": 16,
+		"name": "Verbandszellen",
+		"class": [],
+		"class_alias": [],
+		"max_level": 0,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 2,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 3,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 4,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 5,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 6,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 7,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 8,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 9,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			}
+		]
+	},
+	{
+		"id": 17,
+		"name": "Polizei-Sondereinheiten",
+		"class": ["sek", "mek"],
+		"class_alias": ["SEK", "MEK"],
+		"max_level": 0,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "SEK: 1. Zug",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "SEK: 2. Zug",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 2,
+				"name": "MEK: 1. Zug",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 3,
+				"name": "MEK: 2. Zug",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 4,
+				"name": "Diensthundestaffel",
+				"cost": 1e5,
+				"duration": 5
+			}
+		]
+	},
+	{
+		"id": 18,
+		"name": "Feuerwache (klein)",
+		"class": ["fire_stations"],
+		"class_alias": ["Feuerwachen"],
+		"max_level": 5,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Rettungsdienst-Erweiterung",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "Abrollbehälter-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 2,
+				"name": "Abrollbehälter-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 6,
+				"name": "Wasserrettungs-Erweiterung",
+				"cost": 4e5,
+				"duration": 7
+			},
+			{
+				"id": 8,
+				"name": "Flughafen-Erweiterung",
+				"cost": 3e5,
+				"duration": 7
+			},
+			{
+				"id": 13,
+				"name": "Werkfeuerwehr",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 14,
+				"name": "NEA50-Erweiterung",
+				"cost": 1e5,
+				"duration": 5
+			},
+			{
+				"id": 16,
+				"name": "Lüfter-Erweiterung",
+				"cost": 1e5,
+				"duration": 5
+			},
+			{
+				"id": 18,
+				"name": "Drohnen-Erweiterung",
+				"cost": 2e5,
+				"duration": 5
+			},
+			{
+				"id": 19,
+				"name": "Verpflegungsdienst",
+				"cost": 2e5,
+				"duration": 5
+			},
+			{
+				"id": 20,
+				"name": "Anhänger-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 21,
+				"name": "Anhänger-Stellplatz",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 25,
+				"name": "Bahnrettung",
+				"cost": 1e5,
+				"duration": 5
+			}
+		]
+	},
+	{
+		"id": 19,
+		"name": "Polizeiwache (klein)",
+		"class": ["police_stations"],
+		"class_alias": ["Polizeiwachen"],
+		"max_level": 5,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "Zelle",
+				"cost": 25e3,
+				"duration": 7
+			},
+			{
+				"id": 10,
+				"name": "Diensthundestaffel",
+				"cost": 1e5,
+				"duration": 5
+			},
+			{
+				"id": 11,
+				"name": "Kriminalpolizei-Erweiterung",
+				"cost": 1e5,
+				"duration": 7
+			},
+			{
+				"id": 12,
+				"name": "Dienstgruppenleitung-Erweiterung",
+				"cost": 2e5,
+				"duration": 7
+			},
+			{
+				"id": 13,
+				"name": "Motorradstaffel",
+				"cost": 75e3,
+				"duration": 2
+			}
+		]
+	},
+	{
+		"id": 20,
+		"name": "Rettungswache (klein)",
+		"class": ["rescue_stations"],
+		"class_alias": ["Rettungswachen"],
+		"max_level": 5,
+		"extensions": []
+	}, 
+	{
+		"id": 21,
+		"name": "Rettungshundestaffel",
+		"class": ["rescue_dog_units"],
+		"class_alias": ["Rettungshundestaffeln"],
+		"max_level": 6,
+		"extensions": []
+	},
+	{
+		"id": 22,
+		"name": "Großer Komplex",
+		"class": [],
+		"class_alias": [],
+		"max_level": 20,
+		"extensions": []
+	},
+	{
+		"id": 23,
+		"name": "Kleiner Komplex",
+		"class": [],
+		"class_alias": [],
+		"max_level": 20,
+		"extensions": []
+	},
+	{
+		"id": 24,
+		"name": "Reiterstaffel",
+		"class": ["horse"],
+		"class_alias": ["Reiterstaffel"],
+		"max_level": 0,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Reiterstaffel",
+				"cost": 25e3,
+				"duration": 5
+			},
+			{
+				"id": 1,
+				"name": "Reiterstaffel",
+				"cost": 25e3,
+				"duration": 5
+			},
+			{
+				"id": 2,
+				"name": "Reiterstaffel",
+				"cost": 25e3,
+				"duration": 5
+			},
+			{
+				"id": 3,
+				"name": "Reiterstaffel",
+				"cost": 25e3,
+				"duration": 5
+			},
+			{
+				"id": 4,
+				"name": "Reiterstaffel",
+				"cost": 25e3,
+				"duration": 5
+			},
+			{
+				"id": 5,
+				"name": "Reiterstaffel",
+				"cost": 25e3,
+				"duration": 5
+			}
+		]
+	},
+	{
+		"id": 25,
+		"name": "Bergrettungswache'",
+		"class": ["bergwacht"],
+		"class_alias": ["Bergrettung"],
+		"max_level": 0,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Höhenrettung",
+				"cost": 25e3,
+				"duration": 5
+			},
+			{
+				"id": 1,
+				"name": "Drohneneinheit",
+				"cost": 25e3,
+				"duration": 5
+			},
+			{
+				"id": 2,
+				"name": "Rettungshundestaffel",
+				"cost": 25e3,
+				"duration": 5
+			},
+			{
+				"id": 3,
+				"name": "Rettungsdienst",
+				"cost": 25e3,
+				"duration": 5
+			}
+		]
+	},
+	{
+		"id": 26,
+		"name": "Seenotrettungswache'",
+		"class": ["Seenot"],
+		"class_alias": ["Seenot"],
+		"max_level": 5,
+		"extensions": []
+	},
+	{
+		"id": 27,
+		"name": "Schule für Seefahrt und Seenotrettung",
+		"class": [],
+		"class_alias": [],
+		"max_level": 3,
+		"extensions": [
+			{
+				"id": 0,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			},
+			{
+				"id": 1,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			},
+			{
+				"id": 2,
+				"name": "Weiterer Klassenraum",
+				"cost": 4e5,
+				"duration": 7
+			}
+		]
+	},
+	{
+		"id": 28,
+		"name": "Hubschrauberstation (Seenotrettung)",
+		"class": ["rthsea"],
+		"class_alias": ["Rettungshelikopter See"],
+		"max_level": null,
+		"extensions": []
+	}
+]
