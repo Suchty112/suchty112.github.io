@@ -2165,7 +2165,7 @@
 	{
 		"id": 110,
 		"name": "NEA50",
-		"short_name": "NEA50",
+		"short_name": "NEA50 (THW)",
 		"class": [],
 		"class_alias": [],
 		"cost": "10000",
@@ -2184,7 +2184,7 @@
 	{
 		"id": 111,
 		"name": "NEA50",
-		"short_name": "NEA50",
+		"short_name": "NEA50 (FW)",
 		"class": [],
 		"class_alias": [],
 		"cost": "10000",
@@ -2203,7 +2203,7 @@
 	{
 		"id": 112,
 		"name": "NEA200",
-		"short_name": "NEA200",
+		"short_name": "NEA200 (THW)",
 		"class": [],
 		"class_alias": [],
 		"cost": "50000",
@@ -2222,7 +2222,7 @@
 	{
 		"id": 113,
 		"name": "NEA200",
-		"short_name": "NEA200",
+		"short_name": "NEA200 (FW)",
 		"class": [],
 		"class_alias": [],
 		"cost": "50000",
@@ -3254,5 +3254,94 @@
 		"prerequisites": {
 			"fire_stations": 1
 		}
-	}
+	},
+	{
+		"id": 171,
+		"name": "GW TeSi",
+		"short_name": "GW TeSi",
+		"class": [],
+		"class_alias": [],
+		"cost": 5000,
+		"personal": {
+			"min": 1,
+			"max": 5
+		},
+		"building": [12],
+		"additional": {},
+		"prerequisites": {
+			"seg": 1
+		}
+	},
+	{
+		"id": 172,
+		"name": "LKW Technik (Notstrom)",
+		"short_name": "LKW TeSi (Notstrom)",
+		"class": [],
+		"class_alias": [],
+		"cost": 5000,
+		"personal": {
+			"min": 2,
+			"max": 6
+		},
+		"building": [12],
+		"additional": {},
+		"prerequisites": {
+			"seg": 1
+		}
+	},
+	{
+		"id": 173,
+		"name": "MTW TeSi",
+		"short_name": "MTW TeSi",
+		"class": [],
+		"class_alias": [],
+		"cost": 5000,
+		"personal": {
+			"min": 1,
+			"max": 7
+		},
+		"building": [12],
+		"additional": {},
+		"prerequisites": {
+			"seg": 1
+		}
+	},
+	{
+		"id": 174,
+		"name": "Anh TeSi",
+		"short_name": "Anh TeSi",
+		"class": [],
+		"class_alias": [],
+		"cost": 5000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [12],
+		"additional": {
+			"trailer": true
+		},
+		"prerequisites": {
+			"seg": 1
+		}
+	},
+	{
+		"id": 175,
+		"name": "NEA50",
+		"short_name": "NEA50 (SEG)",
+		"class": [],
+		"class_alias": [],
+		"cost": 5000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [12],
+		"additional": {
+			"trailer": true
+		},
+		"prerequisites": {
+			"seg": 1
+		}
+	},
 ]

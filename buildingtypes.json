@@ -670,6 +670,12 @@
 				"cost": 2e5,
 				"duration": 5
 			}
+			{
+				"id": 6,
+				"name": "Technik und Sicherheit",
+				"cost": 2e5,
+				"duration": 5
+			}
 		]
 	},
 	{
