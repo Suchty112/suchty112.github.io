@@ -3343,5 +3343,58 @@
 		"prerequisites": {
 			"seg": 1
 		}
+	},
+	{
+		"id": 176,
+		"name": "LKW 7 Lbw (FGr Log-V)",
+		"short_name": "LKW 7 Lbw (FGr Log-V)",
+		"class": [],
+		"class_alias": [],
+		"cost": 5000,
+		"personal": {
+			"min": 3,
+			"max": 3
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}
+	},
+	{
+		"id": 177,
+		"name": "MTW-FGr Log-V",
+		"short_name": "MTW-FGr Log-V",
+		"class": [],
+		"class_alias": [],
+		"cost": 5000,
+		"personal": {
+			"min": 5,
+			"max": 5
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}
+	},
+	{
+		"id": 178,
+		"name": "Anh 12 Lbw (FGr Log-V)",
+		"short_name": "Anh 12 Lbw (FGr Log-V)",
+		"class": [],
+		"class_alias": [],
+		"cost": "8000",
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {
+			"trailer": true
+		},
+		"prerequisites": {
+			"thw": 1
+		}
 	}
 ]
